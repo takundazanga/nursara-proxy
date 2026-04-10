@@ -1,0 +1,6 @@
+{
+  "name": "nursara-proxy",
+  "version": "1.0.0",
+  "description": "NurSara API proxy — keeps Anthropic key server-side",
+  "private": true
+}
